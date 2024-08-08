@@ -11,7 +11,7 @@ models.
 
 The video game recommendation system leverages data from Steam, including user playtime and game details such as genre. It employs hybrid filtering (a mixuture of content-based and collaborative filtering) to analyse the data and generate personalised game recommendations for users.
 
-# Contents
+## Contents
 This repository contains:
 * `Video_game_recommendation.ipynb`: The main notebook containing the final implementation of the recommendation system.
 * `Initial_Research.ipynb`(formerly `Rough_work.ipynb`): A notebook containing initial research and analysis along with all rough work done during the project.
